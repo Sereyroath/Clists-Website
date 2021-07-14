@@ -305,7 +305,7 @@
                 <div class="card-body px-0">
                   <h3 class="card-title member__name">គឹម សេរីរតន៍</h3>
                   <h6 class="card-subtitle member__role pb-3">
-                    ប្រធាននៃក្រុមហ៊ុន <span>CLISTS</span>
+                    នាយកប្រត្តិបត្ត <span>CLISTS</span>
                   </h6>
                   <p class="card-text">
                     អ្នករៀបចំគម្រោងជំនួញនិងទីផ្សាររបស់ក្រុមហ៊ុន Clist។

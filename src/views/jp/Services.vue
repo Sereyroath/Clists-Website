@@ -293,46 +293,6 @@
     </div>
   </section>
 
-  <section>
-    <div data-aos="fade-up" class="shift-background">
-      <div class="container">
-        <h3 class="title">Vkiriromデータセンター</h3>
-        <div class="row py-4">
-          <div class="col-md-6">
-            <div class="card">
-              <div class="text-center">
-                <img
-                  src="../../assets/datacenter/server1.jpg"
-                  class="datacenter__img"
-                  alt="..."
-                />
-              </div>
-              <div class="card-body text-center">
-                <h3 class="card-title datacenter__title">
-                  データセンターの整理
-                </h3>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="card">
-              <div class="text-center">
-                <img
-                  src="../../assets/datacenter/technology1.jpg"
-                  class="datacenter__img"
-                  alt="..."
-                />
-              </div>
-              <div class="card-body text-center">
-                <h3 class="card-title datacenter__title">技術</h3>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <section data-aos="fade-up" id="aboutus">
     <div class="container text-center">
       <h3 class="title py-4">“ 会社概要 „</h3>

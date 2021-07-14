@@ -5,9 +5,9 @@
       <div class="container">
         <a class="navbar-brand" href="/">
           <div class="d-flex align-items-end bd-highlight mb-3">
-            <div><img src="./assets/Clists_logo.png" class="logo me-3" alt="" /></div>
+            <div><img src="./assets/Clists_logo.png" class="logo me-0" alt="" /></div>
             <div>
-              <h1 class="title__logo m-0 p-0">
+              <h1 class="title__logo m-4 p-0">
                 <span>Clists Cloud Company</span>
               </h1>
             </div>
@@ -457,7 +457,7 @@ h5 {
 }
 
 .logo {
-  width: 15rem;
+  width: 12rem;
 }
 
 .nav-item > a {
