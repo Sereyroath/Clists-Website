@@ -432,7 +432,7 @@
 
   <section id="ourpartners">
     <div class="shift-background">
-      <div class="container py-4">
+      <!--<div class="container py-4">
         <h3 class="title py-4">当社のパートナー</h3>
         <div>
           <swiper
@@ -476,7 +476,7 @@
             </swiper-slide>
           </swiper>
         </div>
-      </div>
+      </div>-->
     </div>
   </section>
 
